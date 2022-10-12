@@ -62,3 +62,6 @@ Should any be missing kindly let us know at [Eagle Union](https://t.me/YorktownE
 
 
 ![Alt](https://repobeats.axiom.co/api/embed/d2897eb81239aab92e1394b6d833b19c8dbac24c.svg "Repobeats analytics image")
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DSS18T/teri_maa_ke_chut)
